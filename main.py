@@ -3,7 +3,6 @@ import os  # Импорт модуля os для работы с файлово�
 from typing import List, Dict, Any
 
 
-
 class DataFormat:
     def __init__(self, date: str, category: str, amount: float, description: str = "") -> None:
         """
