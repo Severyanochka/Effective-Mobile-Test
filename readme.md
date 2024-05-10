@@ -22,9 +22,18 @@
 Пример файла с данными `financial_records.json`:
 
 [
-{"date": "2024-05-10", "category": "Доход", "amount": 10000, "description": "Зарплата"},
-{"date": "2024-05-09", "category": "Расход", "amount": 500, "description": "Покупка продуктов"},
-{"date": "2024-05-08", "category": "Расход", "amount": 200, "description": "Кофе в кафе"}
+    {
+        "date": "2024-05-10",
+        "category": "\u0414\u043e\u0445\u043e\u0434",
+        "amount": 3000.0,
+        "description": "\u0417\u0430\u0440\u043f\u043b\u0430\u0442\u0430"
+    },
+    {
+        "date": "2024-05-10",
+        "category": "\u0420\u0430\u0441\u0445\u043e\u0434",
+        "amount": 500.0,
+        "description": "\u041f\u043e\u043a\u0443\u043f\u043a\u0430 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432"
+    }
 ]
 ## Автор
 Мельникова Полиночка 
